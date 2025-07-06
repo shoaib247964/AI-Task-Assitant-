@@ -1,4 +1,4 @@
-# AI Personal Task Assistant
+# AI Personal Task Assistant Agent
 
 A modern, AI-powered personal task assistant web app with smart productivity features, built using Flask (Python), SQLite, OpenAI (LLM), and a modern HTML/CSS/JS frontend.
 
